@@ -1,0 +1,7 @@
+*.obj
+*.cpe
+*.exe
+*.lib
+*.bak
+*.map
+doc
